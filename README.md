@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Header](https://raw.githubusercontent.com/helloaltop/helloaltop/main/Asset/gambar2.png "Header")](https://helloaltop.com/)
 ## I'm a CTO, Tech Lead, and Developer!
 
