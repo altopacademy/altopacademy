@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #[![Header](https://raw.githubusercontent.com/helloaltop/helloaltop/main/Asset/batman.jpg "Header")](https://helloaltop.com/)
-[<img alt="Gmail" src="https://img.shields.io/badge/hello.adityarohman@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][email]
+[<img alt="Gmail" src="https://img.shields.io/badge/helloaltop@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][helloaltop@gmail.com]
 
 <!--
 **helloaltop/helloaltop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
