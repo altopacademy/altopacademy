@@ -8,13 +8,12 @@
 - ⛳️ 2021 Goals: Being a Fully Fledged Flutter Developer and contribute to open source and community
 - ⚡ Fun fact: A mechanical keyboard enthusiast
 
-- [Cara Mendapatkan Passive Income dengan Menjadi Creator di Uplabs (plus Speed Design Process) | STD](https://www.youtube.com/watch?v=gTNblAf15E0)
 
 ### Connect with me:
-[<img alt="Youtube" src="https://img.shields.io/badge/hello aditya%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://helloaltop.com)
+[<img alt="Youtube" src="https://img.shields.io/badge/hello aditya%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>](https://www.youtube.com/channel/UCV7Bd93A30b1YoyZPBOTbFg)
 [<img alt="Twitter" src="https://img.shields.io/badge/codestronaut1%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
-[<img alt="LinkedIn" src="https://img.shields.io/badge/aditya rohman%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/aditya rohman%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/helloaltop/)
+[<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/helloaltop/)
 
 ### Languages, Frameworks, and Tools:
 
