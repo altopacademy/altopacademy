@@ -10,9 +10,9 @@
 
 
 ### Connect with me:
-[<img alt="Youtube" src="https://img.shields.io/badge/hello aditya%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
-[<img alt="LinkedIn" src="https://img.shields.io/badge/aditya rohman%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="Instagram" src="https://img.shields.io/badge/adityaa.r__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
+[<img alt="Youtube" src="https://img.shields.io/badge/hello altop%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
+[<img alt="LinkedIn" src="https://img.shields.io/badge/hello altop%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img alt="Instagram" src="https://img.shields.io/badge/hello_altop__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
 ### Languages, Frameworks, and Tools:
 
