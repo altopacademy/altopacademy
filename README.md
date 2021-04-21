@@ -1,7 +1,13 @@
 ### Hi there 👋
 
-#[![Header](https://raw.githubusercontent.com/helloaltop/helloaltop/main/Asset/batman.jpg "Header")](https://helloaltop.com/)
-[<img alt="Gmail" src="https://img.shields.io/badge/helloaltop@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][helloaltop@gmail.com]
+<!--###[![Header](https://raw.githubusercontent.com/helloaltop/helloaltop/main/Asset/batman.jpg "Header")](https://helloaltop.com/) -->
+## I'm a Student, Developer, and Designer!!
+
+- 🌱 I’m currently learning Flutter 😊
+- 👨‍💻👩‍💻 I’m looking to collaborate with other content creators
+- ⛳️ 2021 Goals: Being a Fully Fledged Flutter Developer and contribute to open source and community
+- ⚡ Fun fact: A mechanical keyboard enthusiast
+
 
 <!--
 **helloaltop/helloaltop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
