@@ -8,6 +8,7 @@
 - ⛳️ 2021 Goals: Being a Fully Fledged Flutter Developer and contribute to open source and community
 - ⚡ Fun fact: A mechanical keyboard enthusiast
 
+- [Cara Mendapatkan Passive Income dengan Menjadi Creator di Uplabs (plus Speed Design Process) | STD](https://www.youtube.com/watch?v=gTNblAf15E0)
 
 ### Connect with me:
 [<img alt="Youtube" src="https://img.shields.io/badge/hello aditya%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
