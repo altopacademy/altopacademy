@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--###[![Header](https://raw.githubusercontent.com/helloaltop/helloaltop/main/Asset/batman.jpg "Header")](https://helloaltop.com/) -->
-## I'm a Student, Developer, and Designer!!
+## I'm a CTO, Tech Lead, and Developer!!
 
 - 🌱 I’m currently learning Flutter 😊
 - 👨‍💻👩‍💻 I’m looking to collaborate with other content creators
