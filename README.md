@@ -1,6 +1,6 @@
 [![Header](https://raw.githubusercontent.com/helloaltop/helloaltop/main/Asset/gambar2.png "Header")](https://helloaltop.com/)
 ## I'm a CTO, Tech Lead, and Developer!
-Experienced Lead Engineer with a demonstrated history of working in the e-learning industry. Skilled in Google Cloud Platform, Amazon Web Services, Android Studio, Project Management, and Scrum. Strong engineering professional with a Bachelor's degree focused in Engineering Physics/Applied Physics from Universitas Gadjah Mada (UGM). 
+Saya seorang yang suka membuat teknologi. Hal yang paling saya suka adalah melihat teknologi yang saya buat mampu membantu banyak orang dalam beraktifitas dan menggapai mimpi mereka. 
 
 - 🌱 I’m currently working on Edutech Company as a Lead Engineer 😊
 - ⛳️ 2021 Goals: Create Technology Content Course at Youtube
