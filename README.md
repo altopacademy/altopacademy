@@ -18,6 +18,7 @@
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>][figma]
 [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
+[<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />][python]
 
 
 <!-- YOUTUBE:START
@@ -45,6 +46,7 @@
 [figma]: https://www.figma.com
 [dart]: https://dart.dev
 [flutter]: https://flutter.dev
+[python]: https://www.python.org/
 [kotlin]: https://kotlinlang.org
 [java]: https://www.oracle.com/java/technologies/javase-downloads.html
 [email]: mailto:hello.adityarohman@gmail.com
