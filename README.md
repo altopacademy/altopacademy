@@ -1,10 +1,9 @@
 [![Header](https://raw.githubusercontent.com/helloaltop/helloaltop/main/Asset/gambar2.png "Header")](https://helloaltop.com/)
 ## I'm a CTO, Tech Lead, and Developer!
 
-- 🌱 I’m currently learning Flutter 😊
-- 👨‍💻👩‍💻 I’m looking to collaborate with other content creators
-- ⛳️ 2021 Goals: Being a Fully Fledged Flutter Developer and contribute to open source and community
-- ⚡ Fun fact: A mechanical keyboard enthusiast
+- 🌱 I’m currently working on Edutech Company as a Lead Engineer 😊
+- ⛳️ 2021 Goals: Create Technology Content Course at Youtube
+- ⚡ Fun fact: -
 
 
 ### Connect with me:
@@ -16,8 +15,6 @@
 
 [<img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />][android]
 [<img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>][kotlin]
-[<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>][java]
-[<img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white"/>][adobexd]
 [<img alt="Figma" src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>][figma]
 [<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>][dart]
 [<img alt="Flutter" src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" />][flutter]
