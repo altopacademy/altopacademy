@@ -1,5 +1,5 @@
 [![Header](https://raw.githubusercontent.com/helloaltop/helloaltop/main/Asset/gambar2.png "Header")](https://helloaltop.com/)
-## I'm a CTO, Tech Lead, and Developer!
+## I'm Software Developer!
 Saya seorang yang suka membuat teknologi. Hal yang paling saya suka adalah melihat teknologi yang saya buat mampu membantu banyak orang dalam beraktifitas dan menggapai mimpi mereka. 
 
 - 🌱 I’m currently working on Edutech Company as a Lead Engineer 😊
