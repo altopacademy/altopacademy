@@ -2,8 +2,8 @@
 ## I'm Software Developer!
 Saya seorang yang suka membuat teknologi. Hal yang paling saya suka adalah melihat teknologi yang saya buat mampu membantu banyak orang dalam beraktifitas dan menggapai mimpi mereka. 
 
-- 🌱 I’m currently working on Edutech Company as a Lead Engineer 😊
-- ⛳️ 2021 Goals: Create Technology Content Course at Youtube
+- 🌱 I’m currently working on Edutech Company as a VP of Engineering 😊
+- ⛳️ 2022 Goals: Create Technology Content Course at Youtube
 - ⚡ Fun fact: -
 
 
