@@ -10,7 +10,7 @@ Saya seorang yang suka membuat teknologi. Hal yang paling saya suka adalah melih
 ### Connect with me:
 [<img alt="Youtube" src="https://img.shields.io/badge/altopacademy%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/altopacademy%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
-[<img alt="Instagram" src="https://img.shields.io/badge/haltopacademy__%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
+[<img alt="Instagram" src="https://img.shields.io/badge/altopacademy%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>][instagram]
 
 ### Languages
 
