@@ -1,8 +1,8 @@
 ## I'm Software Engineer!
 Saya seorang yang suka membuat teknologi. Hal yang paling saya suka adalah melihat teknologi yang saya buat mampu membantu banyak orang dalam beraktifitas dan menggapai mimpi mereka. 
 
-- 🌱 I’m currently working on Edutech Company as a VP of Engineering 😊
-- ⛳️ 2024 Goals: Create Technology Content Course at Youtube
+- 🌱 I’m currently working on Edutech Company as a Business Owner 😊
+- ⛳️ 2024 Goals: Create Technology Content Course 
 - ⚡ Fun fact: -
 
 
